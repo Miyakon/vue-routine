@@ -1,0 +1,11 @@
+npm install lite-server --save-dev
+"scripts": {
+  "start": "lite-server"
+}
+
+npm install vue-loader@15 --save-dev
+npm install @babel/core @babel/preset-env babel-loader --dev-save
+npm install webpack webpack-cli webpack-dev-server vue-loader vue-template-compiler --save-dev
+npm install --save-dev html-webpack-plugin
+
+https://cdn.jsdelivr.net/npm/vue@2.7.11/dist/vue.js
