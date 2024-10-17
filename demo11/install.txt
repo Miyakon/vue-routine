@@ -1,0 +1,8 @@
+npm install vue@2.7.16 webpack webpack-cli webpack-dev-server vue-loader@15.9.8 vue-template-compiler@2.7.16 css-loader style-loader --save-dev
+
+npm install babel-loader @babel/core @babel/preset-env --save-dev
+
+
+https://cdn.jsdelivr.net/npm/vue@2.7.11/dist/vue.js
+
+npm install html-webpack-plugin --save-dev
